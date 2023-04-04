@@ -22,8 +22,8 @@ const Nav = () => {
           <Link to="/">
             <h1 className="text-xl">Home</h1>
           </Link>
-          <Link to="/">
-            <h1 className="text-xl">Book</h1>
+          <Link to="/books">
+            <h1 className="text-xl">Books</h1>
           </Link>
           <Link to="/">
             <h1 className="text-xl">About Us</h1>
